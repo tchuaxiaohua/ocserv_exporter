@@ -1,0 +1,11 @@
+host:
+  ip: "127.0.0.1"
+  port: "22"
+  passWord: "123456"
+  sshKey: ""
+
+app:
+  port: "9143"
+
+# 是否基于Docker运行
+docker: true
